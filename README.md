@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ujjwal-Vertex/ujjwal-vertex/blob/main/ujjwal%20tripathi%20(1).jpg)
 
-## Hi there 👋
+## Hi there 👋 i'm ujjwal tripathi
 
 <!--
 **Ujjwal-Vertex/ujjwal-vertex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
