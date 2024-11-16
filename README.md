@@ -1,4 +1,4 @@
-![logo](https://github.com/Ujjwal-Vertex/ujjwal-vertex/blob/main/ujjwal%20tripathi.jpg)
+![logo](https://github.com/Ujjwal-Vertex/ujjwal-vertex/blob/main/ujjwal%20tripathi%20(1).jpg)
 
 ## Hi there 👋
 
