@@ -1,4 +1,5 @@
-![logo](https://github.com/Ujjwal-Vertex/ujjwal-vertex/blob/main/ujjwal%20tripathi%20(1).jpg)
+![logo](https://github.com/user-attachments/assets/2317299e-471e-43ac-95c7-8e05ed8f3771)
+
 
 
 <h1 align="center">Hi 👋, I'm ujjwal kumar tripathi</h1>
