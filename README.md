@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="mailto:ujjwal2042005@gmial.com"><img src="https://img.shields.io/badge/Email-ujjwal2052005@gmial.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ujjawal-kumar"><img src="https://img.shields.io/badge/LinkedIn-ujjawal--kumar-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ujjawal-kumar-169297333"><img src="https://img.shields.io/badge/LinkedIn-ujjawal--kumar-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/ujjwal-vertex"><img src="https://img.shields.io/badge/GitHub-ujjwal--vertex-black?style=for-the-badge&logo=github"></a>
 </p>
 
