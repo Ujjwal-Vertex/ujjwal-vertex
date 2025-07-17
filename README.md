@@ -2,7 +2,10 @@
 
 
 
-<h1 align="center">Hello-👋,I'm ujjawal kumar tripathi</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ujjwal+Kumar;A+Passionate+Web+Developer;Full+Stack+Learner+%F0%9F%92%BB;Lover+of+Clean+UI+%26+UX+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">A passionate frontend developer and become a ethical Hacker from India</h3>
 <img align="right" alt="coding" widht="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
