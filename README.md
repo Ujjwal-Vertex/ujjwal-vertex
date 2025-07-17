@@ -15,44 +15,43 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left" style="color:#00ffff;">🔗 Connect with me</h3>
-<p align="left" style="display: flex; gap: 20px;">
+<h3 align="center" style="color:#00ffff;">🔗 Connect with me</h3>
 
-  <a href="https://fb.com/ujjwal tripathi" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" 
-         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #4267B2);" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #4267B2)';" 
+<p align="center">
+  <a href="https://fb.com/ujjwal%20tripathi" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #4267B2);"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #4267B2)';"
          onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #4267B2)';"/>
   </a>
 
   <a href="https://instagram.com/_ujjwal_tripathi_7" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" 
-         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #E1306C);" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #E1306C)';" 
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #E1306C);"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #E1306C)';"
          onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #E1306C)';"/>
   </a>
 
   <a href="https://www.youtube.com/c/ujjwalmusicstudio" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" 
-         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #FF0000);" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #FF0000)';" 
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #FF0000);"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #FF0000)';"
          onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #FF0000)';"/>
   </a>
 
   <a href="mailto:ujjwal2052005@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" 
-         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #D44638);" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #D44638)';" 
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #D44638);"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #D44638)';"
          onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #D44638)';"/>
   </a>
 
   <a href="https://www.linkedin.com/in/ujjawal-kumar-169297333" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" 
-         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #0077B5);" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #0077B5)';" 
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #0077B5);"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #0077B5)';"
          onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #0077B5)';"/>
   </a>
-
 </p>
 
 
