@@ -15,33 +15,49 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="center" style="font-size: 28px; color: #00FFFF; text-shadow: 0 0 10px #00FFFF;">
-  🤝 Connect with Me
-</h3>
+<h3 align="left" style="color:#00ffff;">🔗 Connect with me</h3>
+<p align="left" style="display: flex; gap: 20px;">
 
-<p align="center">
-
-  <!-- Facebook -->
-  <a href="https://fb.com/ujjwal tripathi" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" style="filter: drop-shadow(0 0 10px #4267B2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://fb.com/ujjwal tripathi" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" 
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #4267B2);" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #4267B2)';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #4267B2)';"/>
   </a>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/_ujjwal_tripathi_7" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" style="filter: drop-shadow(0 0 10px #E1306C); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://instagram.com/_ujjwal_tripathi_7" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" 
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #E1306C);" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #E1306C)';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #E1306C)';"/>
   </a>
 
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/c/ujjwal music studio" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="50" width="50" style="filter: drop-shadow(0 0 10px #FF0000); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://www.youtube.com/c/ujjwalmusicstudio" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" 
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #FF0000);" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #FF0000)';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #FF0000)';"/>
+  </a>
+
+  <a href="mailto:ujjwal2052005@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" 
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #D44638);" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #D44638)';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #D44638)';"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ujjawal-kumar-169297333" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" 
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #0077B5);" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #0077B5)';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #0077B5)';"/>
   </a>
 
 </p>
 
-<!-- Bonus Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=450&lines=Follow+Me+On+Socials+%F0%9F%91%87; Let's+Build+Something+Awesome+Together!" alt="Typing Animation" />
-</p>
+
+ 
+
 
 
 
