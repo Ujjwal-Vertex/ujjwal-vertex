@@ -15,26 +15,34 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="center">🤝 Connect with Me</h3>
+<h3 align="center" style="font-size: 28px; color: #00FFFF; text-shadow: 0 0 10px #00FFFF;">
+  🤝 Connect with Me
+</h3>
 
 <p align="center">
-  <a href="https://fb.com/ujjwal tripathi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook" style="margin-right:15px;">
+
+  <!-- Facebook -->
+  <a href="https://fb.com/ujjwal tripathi" target="_blank" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" style="filter: drop-shadow(0 0 10px #4267B2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-  
-  <a href="https://instagram.com/_ujjwal_tripathi_7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" style="margin-right:15px;">
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/_ujjwal_tripathi_7" target="_blank" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" style="filter: drop-shadow(0 0 10px #E1306C); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-  
-  <a href="https://www.youtube.com/c/ujjwal music studio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube" style="margin-right:15px;">
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/ujjwal music studio" target="_blank" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="50" width="50" style="filter: drop-shadow(0 0 10px #FF0000); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
+
 </p>
 
-<!-- Optional: Add a glowing hover effect using inline styles or use CSS if supported -->
+<!-- Bonus Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F700FF&center=true&vCenter=true&width=450&lines=Let's+Connect+and+Create+Something+Awesome+Together!;Follow+me+on+socials+below+%F0%9F%91%87" alt="Connect Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=450&lines=Follow+Me+On+Socials+%F0%9F%91%87;Let's+Build+Something+Awesome+Together!" alt="Typing Animation" />
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
