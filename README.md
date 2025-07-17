@@ -85,18 +85,10 @@
 ## 🧠 Connect with Me
 
 <p align="center">
-  <a href="mailto:ujjwalkumar@example.com"><img src="https://img.shields.io/badge/Email-ujjwal@example.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ujjwal-vertex"><img src="https://img.shields.io/badge/LinkedIn-ujjwal--vertex-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:ujjwalkumar@example.com"><img src="https://img.shields.io/badge/Email-ujjwal2052005@gmial.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ujjwal-vertex"><img src="https://img.shields.io/badge/LinkedIn-ujjawal--kumar-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/ujjwal-vertex"><img src="https://img.shields.io/badge/GitHub-ujjwal--vertex-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-<!-- 🌟 OPTIONAL: Add glow hover effect (for GitHub profile README) -->
-<style>
-  img:hover {
-    transform: scale(1.1);
-    transition: 0.3s;
-    filter: drop-shadow(0 0 8px #00ffe5);
-  }
-</style>
