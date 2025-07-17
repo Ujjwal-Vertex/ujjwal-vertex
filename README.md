@@ -40,7 +40,7 @@
 
 <!-- Bonus Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=450&lines=Follow+Me+On+Socials+%F0%9F%91%87;Let's+Build+Something+Awesome+Together!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=450&lines=Follow+Me+On+Socials+%F0%9F%91%87; Let's+Build+Something+Awesome+Together!" alt="Typing Animation" />
 </p>
 
 
