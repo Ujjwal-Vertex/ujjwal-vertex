@@ -86,15 +86,48 @@
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Languages & Tools I Use:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal-vertex&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal-vertex&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/></a>
 </p>
 
 ---
 
+## 🔥 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-vertex&theme=tokyonight" alt="GitHub Streak" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal-vertex&show_icons=true&theme=radical&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal-vertex&layout=compact&theme=radical&border_radius=15" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ujjwal-vertex&theme=radical&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 🧠 Connect with Me
+
+<p align="center">
+  <a href="mailto:ujjwalkumar@example.com"><img src="https://img.shields.io/badge/Email-ujjwal@example.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ujjwal-vertex"><img src="https://img.shields.io/badge/LinkedIn-ujjwal--vertex-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/ujjwal-vertex"><img src="https://img.shields.io/badge/GitHub-ujjwal--vertex-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<!-- 🌟 OPTIONAL: Add glow hover effect (for GitHub profile README) -->
+<style>
+  img:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+    filter: drop-shadow(0 0 8px #00ffe5);
+  }
+</style>
