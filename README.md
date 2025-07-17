@@ -52,6 +52,12 @@
          onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #0077B5)';"
          onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #0077B5)';"/>
   </a>
+  <a href="https://https://stackoverflow.com/users/30141542/ujjawal-kumar" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="stackoverflow"
+         style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #0077B5);"
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #0077B5)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #0077B5)';"/>
+  </a>
 </p>
 
 
