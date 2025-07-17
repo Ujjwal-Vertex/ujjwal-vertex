@@ -3,12 +3,12 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ujjwal+Kumar;A+Passionate+Web+Developer;Full+Stack+Learner+%F0%9F%92%BB;Lover+of+Clean+UI+%26+UX+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ujjwal+Kumar;A+Passionate+Web+Dev.;Full+Stack+Learner+%F0%9F%92%BB;LLover+of+Clean+UI+%26+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate frontend developer and become a ethical Hacker from India</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="310px">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-vertex&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal-vertex" /> </p>
