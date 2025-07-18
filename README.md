@@ -65,7 +65,6 @@
        onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #FFA116)';"
        onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #FFA116)';"/>
 </a>
-
 </p>
 
 
