@@ -58,6 +58,14 @@
          onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #0077B5)';"
          onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #0077B5)';"/>
   </a>
+ <a href="https://leetcode.com/u/ujjwal2031/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
+       alt="LeetCode"
+       style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 5px #FFA116);"
+       onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 10px #FFA116)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 5px #FFA116)';"/>
+</a>
+
 </p>
 
 
