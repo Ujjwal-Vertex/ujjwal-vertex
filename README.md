@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ujjwal+Kumar;Full+Stack+Web+Developer;Ethical+Hacker+In+Progress+%F0%9F%94%91;Loves+Clean+and+Smooth+UI+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ujjwal+Kumar;Full+Stack+Web+Developer;Ethical+Hacker+In+Progress;Loves+Clean+and+Smooth+UI+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🌍 From India | 💻 Web Enthusiast | 🔐 Aspiring Ethical Hacker</h3>
