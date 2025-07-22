@@ -104,7 +104,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ujjwal-vertex&theme=radical&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
----
+![](https://leetcard.jacoblin.cool/ujjwal_tripathi?theme=unicorn) 
+<br/>
+![](https://leetcard.jacoblin.cool/ujjwal_tripathi?ext=heatmap)
 
 ## 🧠 Connect with Me
 
