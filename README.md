@@ -1,4 +1,4 @@
-<!-- ⚡ Ultimate GitHub README for Ujjwal  tripathy --> 
+<!-- ⚡ Ultimate GitHub README for Ujjwal  tripathy -->  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2317299e-471e-43ac-95c7-8e05ed8f3771" width="100%" alt="banner" />
